@@ -4,7 +4,7 @@
 
 Link to your backend repository here: https://github.com/IgStefano/lab-express-rooms-with-reviews-back-end
 
-Link to your frontend repository here:
+Link to your frontend repository here: https://github.com/IgStefano/lab-express-rooms-with-reviews-front-end
 
 ## Introduction
 
